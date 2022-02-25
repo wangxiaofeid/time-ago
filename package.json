@@ -1,6 +1,6 @@
 {
     "name": "@xiaofei.wang/time-ago",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "时长计算",
     "main": "lib/index.js",
     "scripts": {
@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/wangxiaofeid/time-ago#readme",
     "peerDependencies": {
-        "moment": ">=3.0.0"
+        "moment": ">=2.*"
     },
     "devDependencies": {
         "@babel/cli": "^7.8.4",
